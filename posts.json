@@ -1,0 +1,21 @@
+{
+    "_id": "5b02295b8ec10703fec25886",
+    "text": "this is a text",
+    "user": "5b001a367b5c05219d578477",
+    "likes": [
+        {
+            "_id": "5b02338b8ec10703fec2588a",
+            "user": "5b001a367b5c05219d578477"
+        }
+    ],
+    "comments": [
+        {
+            "date": "2018-05-21T02:47:48.385Z",
+            "_id": "5b0233548ec10703fec25889",
+            "text": "this is a text comment test",
+            "user": "5b001a367b5c05219d578477"
+        }
+    ],
+    "date": "2018-05-21T02:05:15.671Z",
+    "__v": 2
+}
