@@ -11,9 +11,9 @@
 git@github.com:MrZHLF/node-vue.git
 2. 可以直接在git上下载项目源码。把github下载到本地，
      git@github.com:MrZHLF/vue-node.git	
-3.项目初始化，下载所需要的依赖
+3.项目初始化，下载所需要的依赖(现在node目录初始化一次，在进入vue项目目录初始化一下)
 	 cnpm install
-4.项目运行
+4.项目运行(在node目录进行运行，不要进行vue项目中运行,)
 	cnpm run dev
 ```
 
